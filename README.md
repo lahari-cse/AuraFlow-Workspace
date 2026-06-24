@@ -17,22 +17,22 @@ AuraFlow is a modern, responsive landing page featuring an interactive task flow
 - **Vanilla JavaScript**: DOM manipulation, interactive workflows, theme state management via LocalStorage.
 - **Chart.js**: (via CDN) for dynamic workflow visual analytics.
 
-### Installation & Running Locally
+## Installation & Running Locally
 
-1. **Clone the repository**:
+- 1. **Clone the repository**:
 ```bash
    git clone https://github.com/your-username/Aura-Workflow.git
 ```
-2. **Navigate to the directory**:
+- 2. **Navigate to the directory**:
 ```bash
 cd Aura-Workflow
 ``` 
-3. **Open the application**: Simply open the index.html file in your preferred web browser. You can do this by double-clicking the file in your file explorer.
+- 3. **Open the application**: Simply open the index.html file in your preferred web browser. You can do this by double-clicking the file in your file explorer.
 
-### Using a Local Development Server (Optional but Recommended)
+## Using a Local Development Server (Optional but Recommended)
 
--**If you wish to edit the code and view live updates**:
--Open the project folder in Visual Studio Code.
--Install the Live Server extension.
--Right-click on index.html and select "Open with Live Server".
--The application will launch in your browser at http://127.0.0.1:5500.
+- **If you wish to edit the code and view live updates**:
+- Open the project folder in Visual Studio Code.
+- Install the Live Server extension.
+- Right-click on index.html and select "Open with Live Server".
+- The application will launch in your browser at http://127.0.0.1:5500.

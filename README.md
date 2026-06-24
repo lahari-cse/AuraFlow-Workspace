@@ -17,26 +17,20 @@ AuraFlow is a modern, responsive landing page featuring an interactive task flow
 - **Vanilla JavaScript**: DOM manipulation, interactive workflows, theme state management via LocalStorage.
 - **Chart.js**: (via CDN) for dynamic workflow visual analytics.
 
-## Local Development
+### Installation & Running Locally
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/Aura-Workflow.git
+2. **Navigate to the directory**:
+```bash
+cd Aura-Workflow
+``` 
+3. **Open the application**: Simply open the index.html file in your preferred web browser. You can do this by double-clicking the file in your file explorer.
 
-To run this project locally:
+### Using a Local Development Server (Optional but Recommended)
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Because the project consists of static files without a build step, simply open `index.html` in any modern web browser (e.g., Chrome, Firefox, Edge).
-   - Alternatively, you can use a local web server (like VS Code Live Server extension or `npx serve`) for automatic reloading during development.
-
-## Deployment
-
-This is a static website and can be deployed easily on free static hosting services like **GitHub Pages**, **Vercel**, or **Netlify**.
-
-### Deploying to GitHub Pages
-
-1. Push this repository to GitHub.
-2. Go to your repository **Settings** on GitHub.
-3. In the left sidebar, click on **Pages**.
-4. Under "Build and deployment", set the **Source** to "Deploy from a branch".
-5. Select your `main` or `master` branch and set the folder to `/ (root)`.
-6. Click **Save**. Your site will be published at `https://<your-username>.github.io/<repository-name>/` within a few minutes.
-
-
+**If you wish to edit the code and view live updates**:
+-Open the project folder in Visual Studio Code.
+-Install the Live Server extension.
+-Right-click on index.html and select "Open with Live Server".
+-The application will launch in your browser at http://127.0.0.1:5500.

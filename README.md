@@ -21,7 +21,7 @@ AuraFlow is a modern, responsive landing page featuring an interactive task flow
 
 1. **Clone the repository**:
 ```bash
-   git clone https://github.com/lahari-cse/Aura-Workflow.git
+   git clone https://github.com/lahari-cse/AuraFlow-Workspace.git
 ```
 2. **Open the application**: Simply open the index.html file in your preferred web browser. You can do this by double-clicking the file in your file explorer.
 

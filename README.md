@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AuraFlow - Glassmorphic Workspace Optimizer
 
 AuraFlow is a modern, responsive landing page featuring an interactive task flow workspace built with a high-fidelity glassmorphic aesthetic. It provides a stunning user interface to manage tasks, visualize workflow data dynamically, and seamlessly transition between deep space dark mode and frosted pastel light mode.
@@ -39,6 +38,5 @@ This is a static website and can be deployed easily on free static hosting servi
 4. Under "Build and deployment", set the **Source** to "Deploy from a branch".
 5. Select your `main` or `master` branch and set the folder to `/ (root)`.
 6. Click **Save**. Your site will be published at `https://<your-username>.github.io/<repository-name>/` within a few minutes.
-=======
-# Web-Development
->>>>>>> 0f813d3fd8989bb9bc3d9101c9513c8bcd468f8c
+
+
